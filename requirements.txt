@@ -1,1 +1,7 @@
 librosa
+soundfile
+tqdm
+numpy
+pandas
+xgboost
+seaborn
